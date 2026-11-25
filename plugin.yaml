@@ -1,0 +1,7 @@
+manifest_version: 1
+name: humanver
+kind: standalone
+version: 0.1.0
+description: Windows Hello vingerafdruk verificatie — bevestig acties met een vingerscan
+provides_tools:
+  - human_verify
